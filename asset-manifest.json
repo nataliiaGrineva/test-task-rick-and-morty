@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.b54bc1dd.js",
-    "static/media/background.jpg": "/static/media/background.2145312058bcf6c1b5ea.jpg",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.b54bc1dd.js.map": "/static/js/main.b54bc1dd.js.map"
+    "main.css": "/test-task-rick-and-morty/static/css/main.e6c13ad2.css",
+    "main.js": "/test-task-rick-and-morty/static/js/main.4542a4bb.js",
+    "static/media/background.jpg": "/test-task-rick-and-morty/static/media/background.2145312058bcf6c1b5ea.jpg",
+    "index.html": "/test-task-rick-and-morty/index.html",
+    "main.e6c13ad2.css.map": "/test-task-rick-and-morty/static/css/main.e6c13ad2.css.map",
+    "main.4542a4bb.js.map": "/test-task-rick-and-morty/static/js/main.4542a4bb.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b54bc1dd.js"
+    "static/js/main.4542a4bb.js"
   ]
 }
