@@ -1,11 +1,11 @@
-import Counter from './components/Counter';
-import './App.scss';
+import { HashRouter } from "react-router-dom";
+import Home from "./screens/Home";
 
 function App() {
   return (
-    <div className="App">
-      <Counter />      
-    </div>
+    <HashRouter>
+      <Home />
+    </HashRouter>
   );
 }
 
